@@ -15,5 +15,8 @@
   },
   "publishConfig": {
     "@konoha-academy:registry": "https://npm.pkg.github.com"
+  },
+  "volta": {
+    "node": "14.17.5"
   }
 }
